@@ -12,7 +12,7 @@
 
 ### File
 
-<p>[wiki]<a href="https://github.com/qianqians/abelkhan/wiki"</a></p>
+<p><a href="https://github.com/qianqians/abelkhan/wiki" title="wiki"</a></p>
 
 ### License
 
