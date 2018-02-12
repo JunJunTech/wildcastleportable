@@ -12,7 +12,7 @@
 
 ### File
 
-wiki: https://github.com/qianqians/abelkhan/wiki" title=""</a></p>
+wiki: https://github.com/qianqians/abelkhan/wiki"
 
 ### License
 
@@ -20,9 +20,9 @@ LGPL-2.1
 
 ### Technical support
 
-### juggle: https://github.com/qianqians/juggle
+juggle: https://github.com/qianqians/juggle
 
-### jsonparse: https://github.com/qianqians/jsonparse
+jsonparse: https://github.com/qianqians/jsonparse
 
-### meter: https://github.com/qianqians/meter
+meter: https://github.com/qianqians/meter
 
